@@ -220,7 +220,7 @@ Potential extensions of this project include:
 
 ## 👥 Team Project
 
-This project was completed as part of the WBS Coding School Data Science & AI Program.
+This project was completed as part of the WBS Coding School Data Science & AI Program in a collaborative team environment.
 
 ---
 
