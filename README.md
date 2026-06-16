@@ -9,12 +9,7 @@
 ![Market Research](https://img.shields.io/badge/Research-Market%20Research-lightgrey)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
-## 🎯 Project Overview
-
-This project evaluates whether **Eniac**, a European premium technology retailer specializing in Apple products and accessories, should enter the Brazilian market through a partnership with **Magist**, one of Brazil's largest e-commerce service providers.
-
-Using **SQL analysis**, **Tableau visualizations**, and **market research**, I examined customer purchasing behavior, logistics performance, product-market fit, and financial risks.
-
+---
 ### Business Recommendation
 
 ❌ **Do not partner with Magist!**
@@ -31,7 +26,15 @@ This indicates a significant mismatch between Magist's customer base and Eniac's
 
 ### Featured Visualization
 
-<img width="1008" height="496" alt="Technische_Produkte_Günstig_Teuer_Beliebtheit" src="https://github.com/user-attachments/assets/3b8d5c08-0714-4767-8166-90be42bf2004" />
+<img width="1008" height="496" alt="Technische_Produkte_Günstig_Teuer_Beliebtheit" src="https://github.com/user-attachments/assets/3b8d5c08-0714-4767-8166-90be42bf2004" />
+
+---
+## 🎯 Project Overview
+
+This project evaluates whether **Eniac**, a European premium technology retailer specializing in Apple products and accessories, should enter the Brazilian market through a partnership with **Magist**, one of Brazil's largest e-commerce service providers.
+
+Using **SQL analysis**, **Tableau visualizations**, and **market research**, I examined customer purchasing behavior, logistics performance, product-market fit, and financial risks.
+
 
 ---
 
@@ -190,6 +193,12 @@ Projekt_1_Magist_Business_Fragen.sql
 (Optional)
 
 Import the Magist database into MySQL and execute the SQL scripts to reproduce the analysis.
+
+---
+
+## Metadata
+
+Magist_Dump_Source: https://drive.google.com/uc?export=download&id=1Y6fWPUQrMofINrIV1X2pIQNcTv-1H2CF
 
 ---
 
