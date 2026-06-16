@@ -84,9 +84,12 @@ April 2017 – March 2018
 
 ### 3️⃣ Delivery Performance
 
-* Average delivery time: **12.5 days**
-* Delivery speed aligns with Brazilian market standards but falls below European premium-service expectations.
-* Longer delivery times increase customer dissatisfaction risks.
+Amazon Brazil offers significantly faster delivery services:
+
+- **Amazon Prime: 1–2 business days**
+- **Standard delivery: 1–5 business days**
+
+Compared to **Magist's** average delivery time of **12.5 days**, Amazon provides a substantially stronger logistics experience for premium customers.
 
 ### 4️⃣ Competitive Pressure
 
