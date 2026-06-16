@@ -1,15 +1,37 @@
-# E-Commerce-Eniac-and-Magist
-Eniac is a Spain-founded online marketplace that has expanded to other neighboring countries, positioning itself as a premier destination for Apple products and curated accessories. Magist is a Brazilian Software as a Service company that offers a centralized order management system and connects stores with the biggest Brazilian marketplaces.
+# Eniac Market Expansion Analysis: Should Eniac Partner with Magist in Brazil?
 
+## 🛠️ Tech Stack
 
-
-# Eniac Market Expansion Analysis: Evaluating Magist as a Strategic Partner in Brazil
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-green)
+![Business Analysis](https://img.shields.io/badge/Business-Analysis-success)
+![Market Research](https://img.shields.io/badge/Research-Market%20Research-lightgrey)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
 ## 🎯 Project Overview
 
-This project investigates whether Eniac, a European premium technology retailer specializing in Apple products and accessories, should enter the Brazilian market through a partnership with Magist, a Brazilian e-commerce and logistics platform.
+This project evaluates whether **Eniac**, a European premium technology retailer specializing in Apple products and accessories, should enter the Brazilian market through a partnership with **Magist**, one of Brazil's largest e-commerce service providers.
 
-Using SQL-based exploratory and business analysis, combined with market research and data visualization, I evaluated product-market fit, customer behavior, logistics performance, financial implications, and operational risks. The analysis concludes that Magist is not the optimal strategic partner for Eniac's premium product portfolio.
+Using **SQL analysis**, **Tableau visualizations**, and **market research**, I examined customer purchasing behavior, logistics performance, product-market fit, and financial risks.
+
+### Business Recommendation
+
+❌ **Do not partner with Magist!**
+
+The analysis shows that Magist's customer base primarily purchases low-priced products, delivery performance does not meet premium customer expectations, and additional operational risks significantly reduce the attractiveness of the partnership.
+
+---
+
+## 📈 Key Business Insight
+
+> **Only 27.3% of technology product orders belong to higher-priced products, while 72.7% are lower-priced purchases.**
+
+This indicates a significant mismatch between Magist's customer base and Eniac's premium product strategy.
+
+### Featured Visualization
+
+<img width="1008" height="496" alt="Technische_Produkte_Günstig_Teuer_Beliebtheit" src="https://github.com/user-attachments/assets/3b8d5c08-0714-4767-8166-90be42bf2004" />
 
 ---
 
@@ -19,178 +41,173 @@ Using SQL-based exploratory and business analysis, combined with market research
 
 WBS Coding School – Magist Business Case Dataset
 
-### Dataset Overview
+### Time Period
 
-The dataset contains transactional e-commerce data from the Brazilian marketplace Magist, including:
+April 2017 – March 2018
+
+### Dataset Includes
 
 * Orders
 * Customers
 * Sellers
 * Products
+* Product Categories
 * Payments
 * Reviews
-* Delivery information
+* Delivery Information
 
-### Time Period
+### Additional Research Sources
 
-April 2017 – March 2018
-
-### Key Features Analyzed
-
-* Product categories
-* Product prices
-* Order volume
-* Payment methods
-* Customer locations
-* Delivery times
-* Revenue distribution by state
-* Customer reviews
-
-### Additional Sources
-
-* Brazilian e-commerce market research
-* Amazon Brazil market information
-* Public reports regarding logistics, import duties, and operational risks in Brazil
+* Brazilian E-Commerce Market Reports
+* Amazon Brazil Market Information
+* Public Logistics and Import Tax Reports
+* WBS Coding School Learning Materials
 
 ---
 
 ## 🚀 Key Findings & Results
 
-### 1. Limited Geographic Reach
+### 1️⃣ Regional Market Concentration
 
-* Approximately 62% of revenue is concentrated in Brazil's coastal regions.
-* São Paulo alone represents the largest share of marketplace revenue.
-* Limited national coverage reduces Eniac's potential customer reach.
+* Approximately **62% of marketplace revenue** is generated in Brazil's coastal regions.
+* São Paulo is the dominant revenue-generating state.
+* Limited national reach reduces expansion potential.
 
-### 2. Poor Product-Market Fit
+### 2️⃣ Product-Market Mismatch
 
-* Average order value on Magist is approximately €120.
-* Eniac's premium technology products typically start above €540.
-* Most Magist customers purchase lower-priced products, indicating weak demand for premium technology accessories.
+* Average Magist order value: **€120**
+* Typical Eniac product entry price: **€540+**
+* Premium technology products are significantly above the average customer spending level.
 
-### 3. Delivery Performance Concerns
+### 3️⃣ Delivery Performance
 
-* Average delivery time is approximately 12.5 days.
-* Delivery speed does not align with Eniac's premium customer experience standards.
-* Longer delivery times increase the risk of customer dissatisfaction and negative reviews.
+* Average delivery time: **12.5 days**
+* Delivery speed aligns with Brazilian market standards but falls below European premium-service expectations.
+* Longer delivery times increase customer dissatisfaction risks.
 
-### 4. Competitive Disadvantages
+### 4️⃣ Competitive Pressure
 
-* Amazon Brazil offers significantly faster delivery services.
-* Local Apple manufacturing in Brazil creates additional pricing pressure on imported products.
+* Amazon Brazil offers significantly faster delivery services: **1-2 business days with Amazon Prime, 1-5 business days normal delivery. That`s much faster than 12.5 days with Magist**.
+* Local Apple production in Brazil creates pricing advantages for competitors.
 
-### 5. Financial and Operational Risks
+### 5️⃣ Financial Risks
 
-* High usage of installment payments (Parcelamento) delays cash inflows.
-* Increased working capital requirements reduce capital efficiency.
-* Additional risks include:
+* High usage of installment payments (Parcelamento).
+* Delayed cash inflows increase working capital requirements.
+* Additional costs include:
 
-  * High import taxes
-  * Cargo theft
-  * Elevated insurance costs
-
-### Business Recommendation
-
-Based on the available data and market analysis, Eniac should not proceed with a partnership agreement with Magist. Alternative market-entry strategies such as Amazon Brazil, direct sales channels, or selective distribution partnerships should be explored.
+  * Import taxes
+  * Insurance expenses
+  * Cargo theft risks
 
 ---
 
 ## 🛠️ Technologies Used
 
-### Programming
+### Data Analysis
 
 * SQL (MySQL)
 
-### Data Analysis
-
-* Exploratory Data Analysis (EDA)
-* Business Intelligence Analysis
-* Market Research
-
-### Data Visualization
+### Business Intelligence
 
 * Tableau
 
-### Documentation & Presentation
+### Methodologies
 
-* Microsoft PowerPoint / PDF Presentation
+* Exploratory Data Analysis (EDA)
+* Business Analysis
+* Market Research
+* Strategic Risk Assessment
+
+### Documentation
+
 * GitHub
+* PowerPoint
 
 ---
 
 ## 📁 Project Structure
 
 ```text
-├── Projekt_1_Magist_Vorfragen.sql
-│   └── Initial exploratory SQL queries and database investigation
-│
-├── Projekt_1_Magist_Business_Fragen.sql
-│   └── SQL analysis answering strategic business questions
-│
-├── Magist_Contra_Praesentation_Tolga_Turap.pdf
-│   └── Final business presentation and recommendation
-│
+eniac-magist-market-expansion-analysis/
+
+├── magist_exploratory_analysis.sql      # Database exploration and data understanding
+├── magist_business_analysis.sql         # Business questions and strategic analysis
+├── magist_market_entry_recommendation.pdf # Final presentation and recommendation
 └── README.md
-    └── Project documentation
 ```
 
 ---
 
-## 📈 Visualisations
+## 📈 Visualizations
 
-The final presentation includes several Tableau visualizations used to support the business recommendation, including:
+### Revenue Distribution by State
 
-### Revenue Distribution by Brazilian State
+Shows that marketplace revenue is heavily concentrated in a few coastal regions, limiting nationwide premium market coverage.
 
-Shows the concentration of marketplace revenue in coastal regions and highlights limited national coverage.
+<img width="416" height="334" alt="Umsatz" src="https://github.com/user-attachments/assets/d943bd27-d38e-4fe4-ad22-7c2fc46fcbfc" />
 
-### Technology Product Pricing Analysis
 
-Compares the average technology product price with customer purchasing behavior and demand patterns.
+### Product Price Analysis
 
-### Delivery Time Analysis
+Demonstrates the mismatch between Magist's customer purchasing power and Eniac's premium product portfolio.
 
-Illustrates regional delivery performance and customer service implications.
+<img width="1008" height="496" alt="Technische_Produkte_Günstig_Teuer_Beliebtheit" src="https://github.com/user-attachments/assets/0d3e0505-9750-4e2a-ab97-1fdcf2132523" />
 
-### Payment Method Distribution
 
-Highlights the widespread use of installment payments and their impact on working capital requirements.
+### Delivery Performance Analysis
+
+Illustrates average delivery times across Brazilian states and highlights service-level concerns.
+
+<img width="666" height="335" alt="Lieferzeit" src="https://github.com/user-attachments/assets/9e071304-c9da-41c3-895e-0bb551eeae5a" />
 
 ---
 
 ## 🔗 How to Use This Project
 
-### Review the Analysis
+### Step 1
 
-1. Start with the final presentation:
+Review the final business presentation:
 
-   * `Magist_Contra_Praesentation_Tolga_Turap.pdf`
+[Magist_Contra_Praesentation_Tolga Turap.pdf](https://github.com/user-attachments/files/29000642/Magist_Contra_Praesentation_Tolga.Turap.pdf)
 
-2. Review the exploratory analysis:
 
-   * `Projekt_1_Magist_Vorfragen.sql`
+### Step 2
 
-3. Review the business-focused SQL analysis:
+Review the exploratory SQL analysis:
 
-   * `Projekt_1_Magist_Business_Fragen.sql`
+Projekt_1_Magist_Vorfragen.sql
 
-### Reproduce the Analysis
+### Step 3
 
-* Import the Magist database into MySQL.
-* Execute the SQL scripts in the order listed above.
-* Recreate visualizations using Tableau or another BI tool.
+Review the strategic business analysis:
+
+Projekt_1_Magist_Business_Fragen.sql
+
+
+### Step 4
+
+(Optional)
+
+Import the Magist database into MySQL and execute the SQL scripts to reproduce the analysis.
 
 ---
 
 ## 🚀 Future Work
 
-Given additional time and data, the following analyses could be conducted:
+Potential extensions of this project include:
 
-* Customer segmentation of premium technology buyers
-* Profitability analysis including logistics and import costs
-* Market-entry simulations using alternative distribution channels
-* Competitive benchmarking against Amazon Brazil and Mercado Livre
-* Predictive demand forecasting for premium technology products
+* Premium customer segmentation
+* Profitability modelling
+* Alternative market-entry strategy analysis
+* Competitor benchmarking against Amazon Brazil and Mercado Livre
+* Demand forecasting for premium technology products
+
+---
+
+## 👥 Team Project
+
+This project was completed as part of the WBS Coding School Data Science & AI Program.
 
 ---
 
