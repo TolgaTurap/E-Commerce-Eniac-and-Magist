@@ -179,13 +179,14 @@ Review the final business presentation:
 
 Review the exploratory SQL analysis:
 
-Projekt_1_Magist_Vorfragen.sql
+magist_exploratory_analysis.sql
+
 
 ### Step 3
 
 Review the strategic business analysis:
 
-Projekt_1_Magist_Business_Fragen.sql
+magist_business_analysis.sql
 
 
 ### Step 4
